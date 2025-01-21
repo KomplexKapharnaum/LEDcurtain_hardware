@@ -1,2 +1,2 @@
-# LEDcurtain_hardware
- LEDcurtain_hardware
+# Teensy_LED_Strip
+ 

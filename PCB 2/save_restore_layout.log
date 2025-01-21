@@ -1,0 +1,16 @@
+02-17 15:47:25 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 172:Plugin executed on: 'darwin'
+02-17 15:47:25 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 173:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+02-17 15:47:25 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 174:KiCad build version: 7.0.7
+02-17 15:47:25 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 175:Plugin version: 2.0.8
+
+02-17 15:47:25 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 176:Frame repr: <wx._core.Frame object at 0x17f5ebd30>
+02-17 15:47:25 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 194:Anchor footprint reference is 'J5'
+02-17 15:47:26 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 203:Save layout chosen
+02-17 15:47:26 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 354:Working on /Users/electron_rare/Documents/Lelectron_rare/KXKM/contact/led teensy/PCB/PCB.kicad_pcb
+02-17 15:47:26 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
+02-17 15:47:26 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 359:Saving the current board temporary in order to leave current layout intact
+02-17 15:47:26 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 365:Saving board as tempfile: /var/folders/gx/c84r3n4s6ys1y9pgzbncj4540000gn/T/temp_board_file_for_save.kicad_pcb
+02-17 15:47:26 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 370:Loaded temp boardfile: /var/folders/gx/c84r3n4s6ys1y9pgzbncj4540000gn/T/temp_board_file_for_save.kicad_pcb
+02-17 15:47:26 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 371:Get project schematics and layout data
+02-17 15:47:26 com_github_MitjaNemec_SaveRestoreLayout.save_restore_layout 132:getting a list of all footprints on board
+02-17 15:47:35 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 224:User failed to select hierarchy level to save
