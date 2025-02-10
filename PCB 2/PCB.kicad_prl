@@ -85,22 +85,10 @@
         "window": {
           "display": 0,
           "maximized": true,
-          "pos_x": -21,
-          "pos_y": 402,
-          "size_x": 2304,
-          "size_y": 1271
-        }
-      },
-      {
-        "name": "PCB.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -31,
-          "pos_y": 64,
-          "size_x": 2304,
-          "size_y": 1271
+          "pos_x": 217,
+          "pos_y": 38,
+          "size_x": 1294,
+          "size_y": 1079
         }
       }
     ]
